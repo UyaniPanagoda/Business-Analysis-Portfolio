@@ -15,7 +15,8 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 - [📄 View the SRS](SRS%20V2%20-%20Group%2011.pdf)
 - [📄 View the Meeting Minute](Meeting_Minutes_Week01_Board.pdf)
 - [📄 View the Product Checklist](product-checklist.pdf)
-![Activity Diagram for Weather Prediction Function](Activity%20Diagram%20for%20Weather%20Prediction%20Func.png)
+![Activity Diagram for Weather Prediction Function](./Activity%20Diagram%20for%20Weather%20Prediction%20Func.png)
+
 - [📄 View the Project Proposal](link-to-sample.com)
 
 ### 📌 Sales Incentive Automation System (Mock)
