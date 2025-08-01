@@ -10,13 +10,13 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 - Tools: Draw.io, Kanban
 - Deliverables: BRD, Use Cases, User Stories
 
-[📄 View the Project Proposal](Project-Proposal.pdf)
-[📄 View the Project Proposal](link-to-sample.com)
-[📄 View the Project Proposal](link-to-sample.com)
-[📄 View the Project Proposal](link-to-sample.com)
-[📄 View the Project Proposal](link-to-sample.com)
-[📄 View the Project Proposal](link-to-sample.com)
-[📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](Project-Proposal.pdf)
+- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Project Proposal](link-to-sample.com)
 
 ### 📌 Sales Incentive Automation System (Mock)
 - Role: Business Analyst
