@@ -10,17 +10,14 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 - Tools: Draw.io, Kanban
 - Deliverables: BRD, Use Cases, User Stories
 
-- [📄 View the Project Proposal](Project-Proposal.pdf)
-- [📁 View the Sprint Planning and Main Board Folder](Sprint%20Planning%20and%20Main%20Board/)
-- [📄 View the SRS](SRS%20V2%20-%20Group%2011.pdf)
-- [📄 View the Meeting Minute](Meeting_Minutes_Week01_Board.pdf)
-- [📄 View the Task List for Sprints](product-checklist.pdf)
-- [📄 View the Product Checklist](product-checklist.pdf)
+- [📄 Project Proposal](Project-Proposal.pdf)
+- [📁 Sprint Planning and Main Board Folder](Sprint%20Planning%20and%20Main%20Board/)
+- [📄 SRS](SRS%20V2%20-%20Group%2011.pdf)
+- [📄 Meeting Minute](Meeting_Minutes_Week01_Board.pdf)
+- [📄 Task List for Sprints](SolarCast%20-%20TaskList.pdf)
+- [📄 Product Checklist](product-checklist.pdf)
+- [📁 Diagrams and Charts](Diagrams%20and%20Charts/)
 
-- [📁 View the Sprint Planning and Main Board Folder](Sprint%20Planning%20and%20Main%20Board/)
-
-
-- [📄 View the Project Proposal](link-to-sample.com)
 
 ### 📌 Sales Incentive Automation System (Mock)
 - Role: Business Analyst
