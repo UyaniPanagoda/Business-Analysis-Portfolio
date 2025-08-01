@@ -11,7 +11,7 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 - Deliverables: BRD, Use Cases, User Stories
 
 - [📄 View the Project Proposal](Project-Proposal.pdf)
-- [📄 View the Project Proposal](link-to-sample.com)
+- [📄 View the Sprint Implementation](Sprint Planning and Main Board)
 - [📄 View the Project Proposal](link-to-sample.com)
 - [📄 View the Project Proposal](link-to-sample.com)
 - [📄 View the Project Proposal](link-to-sample.com)
