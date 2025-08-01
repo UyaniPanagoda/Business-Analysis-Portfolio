@@ -12,7 +12,7 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 
 - [📄 View the Project Proposal](Project-Proposal.pdf)
 - [📁 View the Sprint Planning and Main Board Folder](Sprint%20Planning%20and%20Main%20Board/)
-- [📄 View the SRS](SRS V2 - Group 11.pdf)
+- [📄 View the SRS](SRS%20V2%20-%20Group%2011.pdf)
 - [📄 View the Meeting Minute](Meeting_Minutes_Week01_Board.pdf)
 - [📄 View the Product Checklist](product-checklist.pdf)
 - [📄 View the Project Proposal](link-to-sample.com)
