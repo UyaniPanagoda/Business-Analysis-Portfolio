@@ -17,7 +17,7 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 - [📄 Task List for Sprints](SolarCast%20-%20TaskList.pdf)
 - [📄 Product Checklist](product-checklist.pdf)
 - [📁 Diagrams and Charts](Diagrams%20and%20Charts/)
-
+- [📄 User Manual](SolarCast_ User%20Manual (1).pdf)
 
 ### 📌 Sales Incentive Automation System (Mock)
 - Role: Business Analyst
