@@ -7,8 +7,8 @@ Experienced Business Analyst with projects in Sales, SME, Telecom, ERP, CRM, and
 
 ### 📌 SolarCast - Weather Prediction Web Application to Optimise Solar Power Plants (SLIIT - A Final Year Group Project (3 members))
 - Role: Business Analyst, Project Manager, Risk Manager
-- Tools: Draw.io, Kanban
-- Deliverables: BRD, Use Cases, User Stories
+- Tools: Draw.io, Kanban, GitHub
+- Deliverables: 
 
 - [📄 Project Proposal](Project-Proposal.pdf)
 - [📁 Sprint Planning and Main Board Folder](Sprint%20Planning%20and%20Main%20Board/)
